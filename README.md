@@ -5,7 +5,7 @@ PDE: u_xx + u_yy + Q = 0 (poisson eq)
 Q = heat generated per unit area
 
 <img width="666" height="585" alt="Thermal Map" src="https://github.com/user-attachments/assets/d3f1ba2a-424c-40d5-ab27-ecee284a9cb1" />
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 Transient heat equation:
 u_t - alpha * (u_xx + u_yy) - Q
 Q = heat source
