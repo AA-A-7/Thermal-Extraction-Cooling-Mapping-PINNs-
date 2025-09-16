@@ -12,3 +12,6 @@ Q = heat source
 u(x,y,t)
 
 ![temperature moves with time](https://github.com/user-attachments/assets/113579b3-7181-4a05-9bcf-eb38cb8758e9)
+
+Thermal Model Extract
+![Uploading thermal extract.png…]()
