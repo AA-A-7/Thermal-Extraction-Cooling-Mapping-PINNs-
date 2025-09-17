@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Thermal Map on Plate"""
 
 import deepxde as dde
