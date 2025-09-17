@@ -6,14 +6,14 @@ Q = heat generated per unit area
 
 <img width="666" height="585" alt="Thermal Map" src="https://github.com/user-attachments/assets/d3f1ba2a-424c-40d5-ab27-ecee284a9cb1" />
 
-#Transient heat equation:
+Transient heat equation:
 u_t - alpha * (u_xx + u_yy) - Q
 Q = heat source
 u(x,y,t)
 
 ![temperature moves with time](https://github.com/user-attachments/assets/113579b3-7181-4a05-9bcf-eb38cb8758e9)
 
-#Thermal Model Extract.
+Thermal Model Extract.
 Example: 2D Cross section of PCB
 
 <img width="682" height="547" alt="Thermal Extraction" src="https://github.com/user-attachments/assets/5355995d-2f5a-4369-b124-640da8def16c" />
