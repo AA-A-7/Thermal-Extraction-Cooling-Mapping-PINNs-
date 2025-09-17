@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Thermal Model Exract.ipynb"""
+"""Thermal Model Exract.ipynb/PINNs"""
 
 import deepxde as dde
 import numpy as np
