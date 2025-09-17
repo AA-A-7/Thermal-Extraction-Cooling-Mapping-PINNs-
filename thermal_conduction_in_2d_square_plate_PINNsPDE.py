@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Thermal Conduction in 2D square plate-PDE"""
 
 import deepxde as dde
