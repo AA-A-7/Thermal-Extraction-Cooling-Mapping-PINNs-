@@ -15,5 +15,4 @@ u(x,y,t)
 
 Thermal Model Extract
 
-
-![Uploading thermal extract.png…]()
+<img width="682" height="547" alt="Thermal Extraction" src="https://github.com/user-attachments/assets/5355995d-2f5a-4369-b124-640da8def16c" />
